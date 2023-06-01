@@ -1,5 +1,5 @@
 <h1 align="center">Welcome 👋,I'm very pleased with your visit</h1>
-<h3 align="center">I'm Marah Al-harthi, senior computer science student. Interested in software development, especially in front-end and designing UI. I use github to share and save the project I worked on</h3>
+<h3 align="center">I'm Marah Al-harthi, senior computer science student. Interested in software development, especially in front-end and designing UI. I use github to share and save the projects I worked on</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif">
 
 - 📫 How to reach me **marah2000ebr@gmail.com**
