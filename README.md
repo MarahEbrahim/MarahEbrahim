@@ -17,15 +17,23 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">👨‍💻 Object Oriented Programming:</h3>
+<h3 align="left">📚 Application Development:</h3>
+<p align="left"><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/null/flutter.png" alt="flutter" width="40" height="40"/></a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/null/dart.png" alt="dart" width="40" height="40"/></a>
+
+
+
+
+
+
+<h3 align="left">👨‍💻 Programming languages:</h3>
 <p>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="js" width="40" height="40"/> </a>
-</p>
-
-<h3 align="left">📚 Beginner/Learning:</h3>
-<p>
 <a href="https://cplusplus.com"><img src="https://i.ibb.co/vmbL7Yn/ISO-C-Logo-svg.png" alt="C++" width="auto" height="40" margin-bottom ="-20px"></a>
+<a href="https://www.mysql.com/"><img src="https://img.icons8.com/color/48/null/mysql-logo.png" alt="mysql" width="auto" height="40" margin-bottom ="-20px"></a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">🛠️ Frameworks:</h3>
@@ -41,5 +49,8 @@
 
 <h2>📫 How to reach me: </h2>
 <p align="left">
-<a href="https://linkedin.com/in/marahalharthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marahalharthi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marahalharthi/"><img src="https://img.icons8.com/fluency/48/null/linkedin.png"/></a>
+<a href="mailto:marah2000ebr@gmail.com">
+ <img src="https://img.icons8.com/color/48/null/apple-mail.png"/></a>
+</a>
 </p>
